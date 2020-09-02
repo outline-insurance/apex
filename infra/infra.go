@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/apex/apex/function"
 	"github.com/apex/log"
+	"github.com/outline-insurance/apex/function"
 )
 
 // TODO(tj): revisit removal of Region when TF supports ~/.aws/config

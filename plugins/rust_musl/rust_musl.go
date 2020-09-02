@@ -3,9 +3,10 @@ package rust_musl
 
 import (
 	"fmt"
-	"github.com/apex/apex/function"
-	"github.com/apex/apex/plugins/nodejs"
 	"strings"
+
+	"github.com/outline-insurance/apex/function"
+	"github.com/outline-insurance/apex/plugins/nodejs"
 )
 
 func init() {

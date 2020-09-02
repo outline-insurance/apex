@@ -6,8 +6,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/apex/apex/function"
 	"github.com/apex/log"
+	"github.com/outline-insurance/apex/function"
 )
 
 // Proxy is a wrapper around commands.

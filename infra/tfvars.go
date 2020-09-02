@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/apex/apex/function"
 	"github.com/apex/log"
 	"github.com/aws/aws-sdk-go/service/lambda"
+	"github.com/outline-insurance/apex/function"
 )
 
 // ConfigRelation is a structure to store a combination of a function and it's configuration

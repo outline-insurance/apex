@@ -5,12 +5,12 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/apex/apex/function"
-	"github.com/apex/apex/plugins/golang"
-	"github.com/apex/apex/plugins/java"
-	"github.com/apex/apex/plugins/nodejs"
-	"github.com/apex/apex/plugins/python"
-	"github.com/apex/apex/plugins/ruby"
+	"github.com/outline-insurance/apex/function"
+	"github.com/outline-insurance/apex/plugins/golang"
+	"github.com/outline-insurance/apex/plugins/java"
+	"github.com/outline-insurance/apex/plugins/nodejs"
+	"github.com/outline-insurance/apex/plugins/python"
+	"github.com/outline-insurance/apex/plugins/ruby"
 )
 
 func init() {

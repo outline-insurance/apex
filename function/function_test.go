@@ -4,13 +4,13 @@ import (
 	"errors"
 	"testing"
 
-	_ "github.com/apex/apex/plugins/golang"
-	_ "github.com/apex/apex/plugins/hooks"
-	_ "github.com/apex/apex/plugins/inference"
-	_ "github.com/apex/apex/plugins/nodejs"
-	_ "github.com/apex/apex/plugins/python"
-	_ "github.com/apex/apex/plugins/ruby"
-	_ "github.com/apex/apex/plugins/shim"
+	_ "github.com/outline-insurance/apex/plugins/golang"
+	_ "github.com/outline-insurance/apex/plugins/hooks"
+	_ "github.com/outline-insurance/apex/plugins/inference"
+	_ "github.com/outline-insurance/apex/plugins/nodejs"
+	_ "github.com/outline-insurance/apex/plugins/python"
+	_ "github.com/outline-insurance/apex/plugins/ruby"
+	_ "github.com/outline-insurance/apex/plugins/shim"
 
 	"github.com/apex/log"
 	"github.com/apex/log/handlers/discard"
@@ -20,9 +20,9 @@ import (
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/apex/apex/function"
-	"github.com/apex/apex/mock"
-	"github.com/apex/apex/utils"
+	"github.com/outline-insurance/apex/function"
+	mock_lambdaiface "github.com/outline-insurance/apex/mock"
+	"github.com/outline-insurance/apex/utils"
 )
 
 func init() {

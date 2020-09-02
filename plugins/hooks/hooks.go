@@ -9,8 +9,8 @@ import (
 
 	"github.com/apex/log"
 
-	"github.com/apex/apex/archive"
-	"github.com/apex/apex/function"
+	"github.com/outline-insurance/apex/archive"
+	"github.com/outline-insurance/apex/function"
 )
 
 func init() {

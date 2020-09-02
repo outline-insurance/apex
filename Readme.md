@@ -1,6 +1,6 @@
 
 # No longer maintained
- This is restored from a local copy of what used to be https://github.com/apex/apex which was deleted on September 2 2020.
+ This is restored from a local copy of what used to be https://github.com/apex/apex which seems to have been deleted as of September 2 2020.
 
 This software is no longer being maintainted and should not be chosen for new projects, unless your company is interested in sponsoring the project it's unfortunately unsustainable. See this [issue](https://github.com/apex/apex/issues/932) for more information
 
@@ -160,7 +160,7 @@ See the [Documentation](http://apex.run) for more information.
 
 [![Build Status](https://semaphoreci.com/api/v1/projects/d27ff350-b9c5-4d99-96e5-64b1afb441c5/649392/badge.svg)](https://semaphoreci.com/tj/apex)
 [![Slack Status](https://apex-slackin.herokuapp.com/badge.svg)](https://apex-slackin.herokuapp.com/)
-[![GoDoc](https://godoc.org/github.com/apex/apex?status.svg)](https://godoc.org/github.com/apex/apex)
+[![GoDoc](https://godoc.org/github.com/outline-insurance/apex?status.svg)](https://godoc.org/github.com/outline-insurance/apex)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg) [![OpenCollective](https://opencollective.com/apex/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/apex/sponsors/badge.svg)](#sponsors)
 

@@ -23,10 +23,10 @@ import (
 	"github.com/pkg/errors"
 	"gopkg.in/validator.v2"
 
-	"github.com/apex/apex/archive"
-	"github.com/apex/apex/hooks"
-	"github.com/apex/apex/utils"
-	"github.com/apex/apex/vpc"
+	"github.com/outline-insurance/apex/archive"
+	"github.com/outline-insurance/apex/hooks"
+	"github.com/outline-insurance/apex/utils"
+	"github.com/outline-insurance/apex/vpc"
 )
 
 // timelessInfo is used to zero mtime which causes function checksums

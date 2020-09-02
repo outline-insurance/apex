@@ -9,9 +9,9 @@ import (
 	"github.com/pkg/errors"
 	"github.com/tj/cobra"
 
-	"github.com/apex/apex/project"
-	"github.com/apex/apex/service"
-	"github.com/apex/apex/utils"
+	"github.com/outline-insurance/apex/project"
+	"github.com/outline-insurance/apex/service"
+	"github.com/outline-insurance/apex/utils"
 )
 
 // environment for project.
