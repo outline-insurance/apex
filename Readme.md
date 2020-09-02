@@ -15,15 +15,15 @@ This project is designed for event-driven pipelines as it does not abstract away
 On macOS, Linux, or OpenBSD run the following:
 
 ```
-curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sh
+curl https://raw.githubusercontent.com/outline-insurance/apex/master/install.sh | sh
 ```
 
 Note that you may need to run the `sudo` version below, or alternatively chown `/usr/local`:
 ```
-curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sudo sh
+curl https://raw.githubusercontent.com/outline-insurance/apex/master/install.sh | sudo sh
 ```
 
-On Windows download [binary](https://github.com/apex/apex/releases).
+On Windows download [binary](https://github.com/outline-insurance/apex/releases).
 
 After downloading, rename binary file 'apex.exe', then add to PATH.
 
