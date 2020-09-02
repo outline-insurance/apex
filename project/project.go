@@ -16,13 +16,13 @@ import (
 	"github.com/tj/go-sync/semaphore"
 	"gopkg.in/validator.v2"
 
-	"github.com/apex/apex/function"
-	"github.com/apex/apex/hooks"
-	"github.com/apex/apex/infra"
-	"github.com/apex/apex/service"
-	"github.com/apex/apex/utils"
-	"github.com/apex/apex/vpc"
 	"github.com/aws/aws-sdk-go/aws"
+	"github.com/outline-insurance/apex/function"
+	"github.com/outline-insurance/apex/hooks"
+	"github.com/outline-insurance/apex/infra"
+	"github.com/outline-insurance/apex/service"
+	"github.com/outline-insurance/apex/utils"
+	"github.com/outline-insurance/apex/vpc"
 )
 
 const (

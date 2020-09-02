@@ -4,7 +4,7 @@ package golang
 import (
 	"strings"
 
-	"github.com/apex/apex/function"
+	"github.com/outline-insurance/apex/function"
 )
 
 func init() {

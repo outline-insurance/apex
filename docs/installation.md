@@ -19,7 +19,7 @@ curl https://raw.githubusercontent.com/apex/apex/master/install.sh | DEST=$HOME/
 
 this command will install `apex` binary as `$HOME/bin/apex` and you may not need to use `sudo`.
 
-On Windows download [binary](https://github.com/apex/apex/releases).
+On Windows download [binary](https://github.com/outline-insurance/apex/releases).
 
 If already installed, upgrade with:
 

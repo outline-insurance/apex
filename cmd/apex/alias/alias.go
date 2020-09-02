@@ -5,7 +5,7 @@ import (
 
 	"github.com/tj/cobra"
 
-	"github.com/apex/apex/cmd/apex/root"
+	"github.com/outline-insurance/apex/cmd/apex/root"
 )
 
 // alias name.
