@@ -1,8 +1,8 @@
 
 # No longer maintained
- This is restored from a local copy of what used to be https://github.com/outline-insurance/apex which was deleted on September 2 2020.
+ This is restored from a local copy of what used to be https://github.com/apex/apex which seems to have been deleted as of September 2 2020.
 
-This software is no longer being maintainted and should not be chosen for new projects, unless your company is interested in sponsoring the project it's unfortunately unsustainable. See this [issue](https://github.com/outline-insurance/apex/issues/932) for more information
+This software is no longer being maintainted and should not be chosen for new projects, unless your company is interested in sponsoring the project it's unfortunately unsustainable. See this [issue](https://github.com/apex/apex/issues/932) for more information
 
 ![Apex Serverless Architecture](assets/title.png)
 
