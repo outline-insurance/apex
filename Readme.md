@@ -1,5 +1,6 @@
 
 # No longer maintained
+ This is restored from a local copy of what used to be https://github.com/apex/apex which was deleted on September 2 2020.
 
 This software is no longer being maintainted and should not be chosen for new projects, unless your company is interested in sponsoring the project it's unfortunately unsustainable. See this [issue](https://github.com/apex/apex/issues/932) for more information
 
@@ -14,15 +15,15 @@ This project is designed for event-driven pipelines as it does not abstract away
 On macOS, Linux, or OpenBSD run the following:
 
 ```
-curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sh
+curl https://raw.githubusercontent.com/outline-insurance/apex/master/install.sh | sh
 ```
 
 Note that you may need to run the `sudo` version below, or alternatively chown `/usr/local`:
 ```
-curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sudo sh
+curl https://raw.githubusercontent.com/outline-insurance/apex/master/install.sh | sudo sh
 ```
 
-On Windows download [binary](https://github.com/apex/apex/releases).
+On Windows download [binary](https://github.com/outline-insurance/apex/releases).
 
 After downloading, rename binary file 'apex.exe', then add to PATH.
 
@@ -70,51 +71,6 @@ Example projects for all supported runtimes can be found in [_examples](_example
 - VPC support
 - Multiple region support
 - Lambda@Edge support
-
-## Sponsors
-
-Does your company use Apex? Help keep the project bug-free and feature rich by [sponsoring the project](https://opencollective.com/apex#sponsor).
-
-  <a href="https://opencollective.com/apex/sponsors/0/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/0/avatar"></a>
-  <a href="https://opencollective.com/apex/sponsors/1/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/1/avatar"></a>
-  <a href="https://opencollective.com/apex/sponsors/2/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/2/avatar"></a>
-  <a href="https://opencollective.com/apex/sponsors/3/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/3/avatar"></a>
-  <a href="https://opencollective.com/apex/sponsors/4/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/4/avatar"></a>
-
-## Backers
-
-Love our work and community? [Become a backer](https://opencollective.com/apex).
-
-  <a href="https://opencollective.com/apex/backers/0/website" target="_blank"><img src="https://opencollective.com/apex/backers/0/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/1/website" target="_blank"><img src="https://opencollective.com/apex/backers/1/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/2/website" target="_blank"><img src="https://opencollective.com/apex/backers/2/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/3/website" target="_blank"><img src="https://opencollective.com/apex/backers/3/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/4/website" target="_blank"><img src="https://opencollective.com/apex/backers/4/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/5/website" target="_blank"><img src="https://opencollective.com/apex/backers/5/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/6/website" target="_blank"><img src="https://opencollective.com/apex/backers/6/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/7/website" target="_blank"><img src="https://opencollective.com/apex/backers/7/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/8/website" target="_blank"><img src="https://opencollective.com/apex/backers/8/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/9/website" target="_blank"><img src="https://opencollective.com/apex/backers/9/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/10/website" target="_blank"><img src="https://opencollective.com/apex/backers/10/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/11/website" target="_blank"><img src="https://opencollective.com/apex/backers/11/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/12/website" target="_blank"><img src="https://opencollective.com/apex/backers/12/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/13/website" target="_blank"><img src="https://opencollective.com/apex/backers/13/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/14/website" target="_blank"><img src="https://opencollective.com/apex/backers/14/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/15/website" target="_blank"><img src="https://opencollective.com/apex/backers/15/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/16/website" target="_blank"><img src="https://opencollective.com/apex/backers/16/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/17/website" target="_blank"><img src="https://opencollective.com/apex/backers/17/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/18/website" target="_blank"><img src="https://opencollective.com/apex/backers/18/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/19/website" target="_blank"><img src="https://opencollective.com/apex/backers/19/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/20/website" target="_blank"><img src="https://opencollective.com/apex/backers/20/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/21/website" target="_blank"><img src="https://opencollective.com/apex/backers/21/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/22/website" target="_blank"><img src="https://opencollective.com/apex/backers/22/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/23/website" target="_blank"><img src="https://opencollective.com/apex/backers/23/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/24/website" target="_blank"><img src="https://opencollective.com/apex/backers/24/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/25/website" target="_blank"><img src="https://opencollective.com/apex/backers/25/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/26/website" target="_blank"><img src="https://opencollective.com/apex/backers/26/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/27/website" target="_blank"><img src="https://opencollective.com/apex/backers/27/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/28/website" target="_blank"><img src="https://opencollective.com/apex/backers/28/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/29/website" target="_blank"><img src="https://opencollective.com/apex/backers/29/avatar"></a>
 
 ## Example
 
